@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/JournalApp/static/css/main.d98a7077.chunk.css",
-    "main.js": "/JournalApp/static/js/main.f26a62f8.chunk.js",
-    "main.js.map": "/JournalApp/static/js/main.f26a62f8.chunk.js.map",
+    "main.js": "/JournalApp/static/js/main.b0376aa9.chunk.js",
+    "main.js.map": "/JournalApp/static/js/main.b0376aa9.chunk.js.map",
     "runtime-main.js": "/JournalApp/static/js/runtime-main.cc35d19d.js",
     "runtime-main.js.map": "/JournalApp/static/js/runtime-main.cc35d19d.js.map",
     "static/js/2.8623a9e0.chunk.js": "/JournalApp/static/js/2.8623a9e0.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.cc35d19d.js",
     "static/js/2.8623a9e0.chunk.js",
     "static/css/main.d98a7077.chunk.css",
-    "static/js/main.f26a62f8.chunk.js"
+    "static/js/main.b0376aa9.chunk.js"
   ]
 }
